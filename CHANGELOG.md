@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file. `CoreDataCandy` adheres to [Semantic Versioning](http://semver.org).
 
 ---
+## [1.3.0](https://github.com/ABridoux/core-data-candy/tree/1.3.0) (05/06/2021)
+### Added
+- `DatabaseModel.updateResultsController` to return a `NSFetchedResultsController` setup with a request and sorts
+
 ## [1.2.0](https://github.com/ABridoux/core-data-candy/tree/1.2.0) (31/05/2021)
 ### Added
 - Draft features to modify a model without impacting the view context. Then to merge the modifications. [#2]
